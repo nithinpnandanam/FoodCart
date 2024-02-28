@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1704516701865" clover="3.2.0">
+  <project timestamp="1704516701865" name="All files">
+    <metrics statements="105" coveredstatements="100" conditionals="16" coveredconditionals="13" methods="42" coveredmethods="38" elements="163" coveredelements="151" complexity="0" loc="105" ncloc="105" packages="2" files="16" classes="16"/>
+    <package name="components">
+      <metrics statements="77" coveredstatements="75" conditionals="16" coveredconditionals="13" methods="32" coveredmethods="31"/>
+      <file name="Body.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/Body.jsx">
+        <metrics statements="26" coveredstatements="24" conditionals="6" coveredconditionals="5" methods="10" coveredmethods="9"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="10" count="7" type="stmt"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="29" count="7" type="stmt"/>
+        <line num="30" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="36" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="56" count="20" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="78" count="20" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="91" count="83" type="stmt"/>
+      </file>
+      <file name="Cart.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/Cart.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="8" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+      </file>
+      <file name="ContactUs.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/ContactUs.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="5" type="stmt"/>
+      </file>
+      <file name="Header.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/Header.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="10" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="16" count="19" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="ItemList.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/ItemList.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="30" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+      </file>
+      <file name="RestaurantCard.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/RestaurantCard.jsx">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="85" type="stmt"/>
+        <line num="7" count="85" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="26" count="46" type="stmt"/>
+      </file>
+      <file name="RestaurantCategory.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/RestaurantCategory.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="28" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="28" type="stmt"/>
+      </file>
+      <file name="RestaurantMenu.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/RestaurantMenu.jsx">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="18" count="34" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="27" count="28" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+      </file>
+      <file name="Shimmer.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/Shimmer.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+      </file>
+      <file name="sum.js" path="/home/nithin/Study/React/Episode 13/Part 3/src/components/sum.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="28" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="7"/>
+      <file name="UserContext.js" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="3" type="stmt"/>
+      </file>
+      <file name="appStore.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/appStore.jsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+      </file>
+      <file name="cartSlice.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/cartSlice.jsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+      <file name="constants.js" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/constants.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="4" type="stmt"/>
+        <line num="2" count="4" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+      </file>
+      <file name="useOnlineStatus.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/useOnlineStatus.jsx">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="4" count="17" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="9" count="8" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+      </file>
+      <file name="useRestaurantMenu.jsx" path="/home/nithin/Study/React/Episode 13/Part 3/src/utils/useRestaurantMenu.jsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
